@@ -1,0 +1,2 @@
+import main_module_pack_withoutQUIT_v4
+main_module_pack_withoutQUIT_v4.show_window()
